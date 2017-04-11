@@ -1,6 +1,8 @@
-# PopularMovies1
-ALC/Udacity 1st Project 
+# PopularMovies1 
 [![Popular Movies](https://github.com/twisstosin/PopularMovies1/blob/master/app/src/main/res/mipmap-hdpi/ic_launcher.png)](https://github.com/twisstosin/PopularMovies1)
+
+ALC/Udacity 1st Project.
+App to allow users to discover the most popular movies playing. split the development of this app in two stages. First, stage 1. In this stage, built the core experience of your movies app.
 
 # Screenshots
 <div align="center" markdown="1">
