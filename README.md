@@ -1,4 +1,4 @@
-# PopularMovies1 
+# PopularMovies
 [![Popular Movies](https://github.com/twisstosin/PopularMovies1/blob/master/app/src/main/res/mipmap-hdpi/ic_launcher.png)](https://github.com/twisstosin/PopularMovies1)
 
 ALC/Udacity 1st Project.
