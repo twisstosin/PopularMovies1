@@ -1,2 +1,26 @@
 # PopularMovies1
-ALC/Udacity 1st Project Project Overview Most of us can relate to kicking back on the couch and enjoying a movie with friends and family. In this project, you’ll build an app to allow users to discover the most popular movies playing. We will split the development of this app in two stages. First, let's talk about stage 1. In this stage you’ll build the core experience of your movies app.  You app will:  Present the user with a grid arrangement of movie posters upon launch. Allow your user to change sort order via a setting: The sort order can be by most popular or by highest-rated Allow the user to tap on a movie poster and transition to a details screen with additional information such as: original title movie poster image thumbnail A plot synopsis (called overview in the api) user rating (called vote_average in the api) release date  The data will be fetched from www.themoviedb.org using themoviedb API.
+ALC/Udacity 1st Project 
+[![Popular Movies](https://github.com/twisstosin/PopularMovies1/blob/master/app/src/main/res/mipmap-hdpi/ic_launcher.png)](https://github.com/twisstosin/PopularMovies1)
+
+# Screenshots
+<div align="center" markdown="1">
+
+<img src="https://github.com/twisstosin/PopularMovies1/blob/master/screenshots/screenshot_one.png" width="40%"/>
+<img src="https://github.com/twisstosin/PopularMovies1/blob/master/screenshots/screenshot_two.png" width="40%"/>
+</div>
+
+# License
+
+Copyright 2017 Tosin Omotoyinbo
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
